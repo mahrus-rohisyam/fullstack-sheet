@@ -1,3 +1,3 @@
-[submodule "object-oriented-typescript-sheet"]
-	path = object-oriented-typescript-sheet
-	url = ./ts-sheet/object-oriented-typescript-sheet/
+[submodule "ts-sheet/object-oriented-sheet"]
+	path = ts-sheet/object-oriented-sheet
+	url = https://github.com/mahrus-rohisyam/object-oriented-sheet

@@ -1,0 +1,30 @@
+{
+  "name": "fullstack-sheet",
+  "version": "1.0.0",
+  "description": "Practice sheet for fullstack JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahrus-rohisyam/fullstack-sheet.git"
+  },
+  "keywords": [
+    "Fullstack",
+    "JavaScript",
+    "MERN",
+    "SQL",
+    "React",
+    "TypeScript",
+    "Mongodb",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Mahrus Sayid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahrus-rohisyam/fullstack-sheet/issues"
+  },
+  "homepage": "https://github.com/mahrus-rohisyam/fullstack-sheet#readme"
+}
